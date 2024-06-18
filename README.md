@@ -7,7 +7,7 @@ The definition of "legally defensible & appropriate" is somewhat subjective (and
 1. The letter should cite only relevant England & Wales legislation
 2. The letter must not "hallucinate" any legal concepts, terminology, references.
 3. The letter must be constructed in such a way that it would be recognised as constituting a stage of the pre-action process
-4. The letter must use british english
+4. The letter must use British English
 
 # Problem Description
 
